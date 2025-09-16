@@ -20,3 +20,5 @@ int a,b,i,j,sum=0;
 
      printf("sum of all prime numbers bw %d and %d   =   %d\n",a,b,sum);
 }
+
+
